@@ -1,0 +1,23 @@
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\Movimiento en Equis.exe
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\Movimiento en Equis.pdb
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\obj\x86\Debug\Movimiento en Equis.exe
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\obj\x86\Debug\Movimiento en Equis.pdb
+c:\users\juan\documents\visual studio 2015\Projects\Movimiento en Equis\Movimiento en Equis\bin\Windows\x86\Debug\Content\Baloncito.xnb
